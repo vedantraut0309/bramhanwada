@@ -435,6 +435,22 @@ footer {
     padding: 0 15px;
   }
 
+  .slide-caption {
+    width: 90%;
+    top: 50%;
+    padding: 15px;
+  }
+
+  .slide-caption h2 {
+    font-size: 1.5rem;
+    margin-bottom: 5px;
+  }
+
+  .slide-caption p {
+    font-size: 0.9rem;
+    line-height: 1.4;
+  }
+
   /* Sections */
   .section-container {
     margin: 30px auto;
